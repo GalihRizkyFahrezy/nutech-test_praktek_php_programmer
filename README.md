@@ -29,7 +29,7 @@ Point tambahan adalah sebagai berikut :
    
   • untuk searching kolom yang dicari adalah namabarang.
    
-3. Form data barang menggunakan popup ✔
+2. Form data barang menggunakan popup ✔
 
   • saya tidak yakin popup yang dimaksud disini adalah menggunakan modal atau popup ke page baru. jadi saya membuat 2 tombol insert/create.
 
