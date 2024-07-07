@@ -23,3 +23,33 @@ Point utamanya adalah sebagai berikut :
 Point tambahan adalah sebagai berikut :
 1. Tampilan data barang mempunyai pagination dan searching ✔
 2. Form data barang menggunakan popup (saya tidak yakin popup yang dimaksud disini adalah menggunakan modal atau popup ke page baru. jadi saya membuat 2 tombol insert/create). ✔
+
+-----------------------------
+
+tempat ini berisi kode-kode yang saya tulis :
+
+nutech/app/http/controllers
+  • BarangController.php
+
+nutech/app/models/
+  • barang.php
+
+nutech/database/migrations/
+  • 2024_07_05_030643_create_barangs_table.php
+
+nutech/public/barang
+  (disini berisi foto-foto yang di upload)
+
+nutech/public/javascript
+  • index.js
+
+nutech/resources/views
+  • edit.blade.php
+  • home.blade.php
+  • insertbarangpage.blade.php
+
+nutech/resources/route
+  • web.php
+
+nutech
+  • .env
