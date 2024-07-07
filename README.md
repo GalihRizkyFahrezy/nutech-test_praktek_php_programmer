@@ -31,27 +31,50 @@ Point tambahan adalah sebagai berikut :
 tempat ini berisi kode-kode yang saya tulis :
 
 nutech/app/http/controllers
+
   • BarangController.php
 
+
 nutech/app/models/
+
   • barang.php
 
+
 nutech/database/migrations/
+
   • 2024_07_05_030643_create_barangs_table.php
+  
 
 nutech/public/barang
+
   (disini berisi foto-foto yang di upload)
+  
 
 nutech/public/javascript
+
   • index.js
 
+
 nutech/resources/views
+
+
   • edit.blade.php
+
+  
   • home.blade.php
+
+  
   • insertbarangpage.blade.php
 
+  
+
 nutech/resources/route
+
+
   • web.php
+  
 
 nutech
+
+
   • .env
