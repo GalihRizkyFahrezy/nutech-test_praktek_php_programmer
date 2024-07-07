@@ -12,6 +12,7 @@ Buatlah Create, Read, Update dan Delete (CRUD) data barang yang terdiri dari :
 5. stok
 
   •  walaupun tidak diminta, namun pada pembuatan table ini saya menambahkan id untuk berjaga-jaga jika ada masalah selama pemrograman karena mencari id cenderung lebih mudah dibanding mencari string dari namabarang.
+  
   •  Proses delete hanya mendelete baris pada table dan meninggalkan file foto. Saya membuat komentar code pada controller untuk menghapus file foto jika diinginkan.
 
 Point utamanya adalah sebagai berikut :
