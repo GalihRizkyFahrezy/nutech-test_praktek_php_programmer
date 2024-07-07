@@ -15,6 +15,8 @@ Buatlah Create, Read, Update dan Delete (CRUD) data barang yang terdiri dari :
   
   •  Proses delete hanya mendelete baris pada table dan meninggalkan file foto. Saya membuat komentar code pada controller untuk menghapus file foto jika diinginkan.
 
+  • Untuk namabarang sengaja saya buat readonly pada edit karena id saya sembunyikan dari UI. sehingga namabarang akan menjadi identitas dari suatu baris, jika namabarang dapat diganti seperti kolom lain maka akan menjadi ambigu.
+
 Point utamanya adalah sebagai berikut :
 
 1. Format foto barang yang diizinkan hanya JPG dan PNG, dan ukurannya maksimal 100kb ✔
