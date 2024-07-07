@@ -26,6 +26,7 @@ Point utamanya adalah sebagai berikut :
 
 Point tambahan adalah sebagai berikut :
 1. Tampilan data barang mempunyai pagination dan searching ✔
+   
   • untuk searching kolom yang dicari adalah namabarang.
    
 3. Form data barang menggunakan popup ✔
