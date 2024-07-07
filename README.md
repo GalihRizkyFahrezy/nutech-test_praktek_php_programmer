@@ -1,6 +1,6 @@
 #README
 
-program ini dibuat dengan menggunakan html, javascript, php laravel dan juga css bootstrap.
+program ini dibuat dengan menggunakan html, css, javascript, php, laravel dan bootstrap.
 
 ----------
 Buatlah Create, Read, Update dan Delete (CRUD) data barang yang terdiri dari :
