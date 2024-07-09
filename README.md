@@ -1,6 +1,9 @@
 #README
 
+host website : https://galihtestphp.000webhostapp.com/
+
 program ini dibuat dengan menggunakan html, css, javascript, php, laravel dan bootstrap dan ditunjukan untuk proses tes rekrutmen PT Nutech Integrasi oleh Galih Rizky Fahrezy pada tanggal 7 Juli 2024.
+
 
 ----------
 Buatlah Create, Read, Update dan Delete (CRUD) data barang yang terdiri dari :
